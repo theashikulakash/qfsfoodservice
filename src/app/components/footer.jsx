@@ -35,8 +35,9 @@ export default function Footer() {
         <div>
           <h3 className="text-xs font-semibold tracking-[0.15em] uppercase text-white/80 mb-5">Contact</h3>
           <ul className="flex flex-col gap-3">
-            <li className="text-sm text-white/70">hello@spiceandleaf.com</li>
-            <li className="text-sm text-white/70">1-800-SPICES</li>
+            <li className="text-sm text-white/70">qfsfoodservice@gmail.com</li>
+            <li className="text-sm text-white/70">+880 1354 018712</li>
+            <li className="text-sm text-white/70">+880 1786 130314</li>
           </ul>
           <div className="flex gap-4 mt-6">
             <a href="#" className="text-white/60 hover:text-white transition-colors">
