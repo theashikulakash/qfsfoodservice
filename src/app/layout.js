@@ -14,6 +14,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: 'Spice & Leaf — Authentic Organic Spices',
   description: 'Premium hand-picked organic spice powders sourced directly from sustainable farms to your pantry.',
+  icons: {
+    icon: '/fevicon.svg', // Path to your icon in the public folder
+    shortcut: '/cart-icon.png',
+  },
 }
 
 export default function RootLayout({ children }) {
